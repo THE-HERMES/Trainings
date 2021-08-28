@@ -9,7 +9,7 @@
  
   </p>
 
-⚡ There are trainings on specific topics. <br>
+⚡ There are trainings on specific topics. You can access the trainings via [this link](https://github.com/THE-HERMES/Trainings/discussions).<br>
 ⚡ Do not focus on different subjects other than the training given to you. This will be to your detriment. <br>
 ⚡ Review the tutorials at least twice to understand. And do not lose hope. <br>
 ⚡ Some packages will have templates inside the compressed file. I hope you like surprises!<br>
